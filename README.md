@@ -8,7 +8,7 @@ In addition, I have experience leading small and medium-sized teams, and I have 
 - Bachelor's degree in Communication with a major in Business
 - Diploma in Business Management
 - Diploma in Digital Marketing 
--  [Google Data Analytics](https://coursera.org/share/505963c4913852317fd6a018584e9488)
+-  [Google Data Analytics Certificate](https://coursera.org/share/505963c4913852317fd6a018584e9488)
 
 
 📊 **Data Projects**
