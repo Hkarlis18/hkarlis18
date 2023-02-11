@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**Hkarlis18/hkarlis18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Karlis and I’m a bilingual entry-level Data Analyst, Journalist, and  Content Manager. I have more than  7 years of experience, working as a freelancer for companies worldwide focused on tech, e-commerce, online media, and marketing in order to help them generate leads and meet business goals.
 
-Here are some ideas to get you started:
+In addition, I have experience leading small and medium-sized teams, and I have an excellent understanding and proficiency in platforms for effective data analyses, including  MS SQL Server, Sheets, Excel, and Power Bi. Moreover,  I'm a strong believer that storytelling, visualization, and data are the keys to making better data-driven decisions and achieving success.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍🎓 **Background**
+- Bachelor's degree in Communication with a major in Business
+- Diploma in Business Management
+- Diploma in Digital Marketing 
+-  [Google Data Analytics](https://coursera.org/share/505963c4913852317fd6a018584e9488)
+
+
+📊 **Data Projects**
+-  [Google Data Analytics Capstone](https://github.com/Hkarlis18/Bellabeat_Google_Analytics_Capstone)
+-  [Covid Analysis](https://github.com/Hkarlis18/Covid-Analysis)
