@@ -12,5 +12,6 @@ In addition, I have experience leading small and medium-sized teams, and I have 
 
 
 📊 **Data Projects**
--  [Google Data Analytics Capstone](https://github.com/Hkarlis18/Bellabeat_Google_Analytics_Capstone)
+- [Google Data Analytics Bikes Capstone](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone)
+-  [Google Data Analytics Bellabeat Capstone](https://github.com/Hkarlis18/Bellabeat_Google_Analytics_Capstone)
 -  [Covid Analysis](https://github.com/Hkarlis18/Covid-Analysis)
