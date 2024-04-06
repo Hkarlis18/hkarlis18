@@ -1,6 +1,7 @@
 ### Hi 👋
 
-My name is Karlis and I’m a bilingual Journalist,  Content Manager, and junior Data Analyst. I have more than 5 years of experience, working remotely for companies worldwide focused on tech, e-commerce, online media, and marketing in order to help them generate leads and meet business goals.
+My name is Karlis and I'm a bilingual Journalist, Communication Specialist, and Junior Data Analyst with over 5 years of experience working remotely for companies and non-profits worldwide. I help business owners to generate quality leads and meet their business goals through content creation and data analysis.
+
 
 
 In addition, I have experience leading small and medium-sized teams, and I have an excellent understanding and proficiency in platforms for effective data analyses, including  MS SQL Server, Sheets, Excel, and Power Bi / Tableau. Moreover,  I'm a strong believer that storytelling, visualization, and data are the keys to making better data-driven decisions and achieving success.
